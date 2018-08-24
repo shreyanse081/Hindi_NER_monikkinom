@@ -1,3 +1,5 @@
+The Repository is been cloned from this [link](https://github.com/monikkinom/ner-lstm). I am trying my own thing, taking this as base. 
+<hr>
 This Repository contains the code which implements the approach described in the following Arxiv Preprint: https://arxiv.org/abs/1610.09756 which is published in ICON-16 conference (http://aclweb.org/anthology/W/W16/W16-63.pdf).
 # Contributors
 * shreenibhar (Shreenivas Bharadwaj)
